@@ -8,13 +8,13 @@ Projeto de respirador mecânico de baixo custo desenvolvido para atender ao imin
 
 ## Conceitos
 
-* Came-Seguidor-Ambú:
- * Seguindo modelo semelhante ao do projeto OxyGen (ver lista de referências);
- * Custo do ambú: R$150 a R$200;
-* Came-Seguidor-Dreno:
- * Branch: came-seguidor-e-dreno/dev
- * Sugestão alternativa utilizando dreno de sucção como alternativa ao ambú;
- * Custo do dreno: R$30 a R$45;
+* **Came-Seguidor-Ambú:**
+  * Seguindo modelo semelhante ao do projeto OxyGen (ver lista de referências);
+  * Custo do ambú: R$150 a R$200;
+* **Came-Seguidor-Dreno:**
+  * Branch: came-seguidor-e-dreno/dev
+  * Sugestão alternativa utilizando dreno de sucção como alternativa ao ambú;
+  * Custo do dreno: R$30 a R$45;
 
 ## Referências
 
